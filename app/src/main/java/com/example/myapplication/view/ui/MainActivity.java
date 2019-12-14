@@ -6,9 +6,6 @@ import android.support.v4.app.FragmentActivity;
 import com.example.myapplication.service.model.Project;
 import com.example.myapplication.R;
 
-/**
- * Ref : https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1
- */
 public class MainActivity extends FragmentActivity {
 
     @Override
